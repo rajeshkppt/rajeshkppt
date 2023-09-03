@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+| GitHub Stats | Top Languages |
+| --- | --- |
+| [![GitHub Stats](https://github-readme-stats-rajeshkppt.vercel.app/api?username=rajeshkppt&include_all_commits=true&show_icons=true&theme=midnight-purple&hide_border=true&hide=stars)](https://github.com/rajeshkppt/github-readme-stats) | [![Top Languages](https://github-readme-stats-rajeshkppt.vercel.app/api/top-langs/?username=rajeshkppt&count_private=true&layout=compact&theme=midnight-purple&hide_border=true)](https://github.com/rajeshkppt/github-readme-stats) |
+
 <!--
 **rajeshkppt/rajeshkppt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
